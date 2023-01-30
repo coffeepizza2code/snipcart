@@ -1,5 +1,11 @@
-import Head from 'next/head'
+import Head from "next/head";
+import Image from "next/image";
+import Script from "next/script";
 
+import Navbar from "@components/Navbar";
+import Container from "@components/Container";
+import Snip from "@components/ClientOnly";
+import products from "@data/products.json";
 
 export default function Home() {
   return (
@@ -10,9 +16,43 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>
+      <Navbar />
 
-      </main>
+      <Container>
+        <h1 className="mt-3  text-center text-2xl capitalize text-black underline decoration-yellow-500">
+          marketplace to buy and sell cats
+        </h1>
+        <ul className="mt-5 grid grid-cols-auto-fit gap-5">
+          {products.map((cat) => {
+            return (
+              <li key={cat.id}>
+                <Image
+                  width={200}
+                  height={200}
+                  src={cat.catImage}
+                  alt={`${cat.catTitle} cat`}
+                  className="cursor-pointer rounded-md hover:opacity-70"
+                />
+                <h2 className="mt-2 font-bold ">{cat.catTitle}</h2>
+                <h3 className="mt-2">€{cat.catPrice}</h3>
+                <button
+                  className="snipcart-add-item mt-2 bg-emerald-500 px-4 py-2 uppercase text-white hover:opacity-60"
+                  data-item-id={cat.id}
+                  data-item-price={Number(cat.catPrice)}
+                  data-item-image={cat.catImage}
+                  data-item-name={cat.catTitle}
+                >
+                  Add to the cart
+                </button>
+              </li>
+            );
+          })}
+        </ul>
+        <footer className="mt-5 mb-5 text-center">
+          &copy; All right reserved 🐱
+        </footer>
+      </Container>
+      {/* for snipcart */}
     </>
-  )
+  );
 }

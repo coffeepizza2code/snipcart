@@ -1,0 +1,122 @@
+[
+  {
+    "id": "8be76b4a-efb3-4ba2-951f-743699497ab2",
+    "catTitle": "Abyssinian",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=32401",
+    "catPrice": "153.00"
+  },
+  {
+    "id": "301bcafe-d5fd-462d-9ba1-faccf392ec13",
+    "catTitle": "Donskoy",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=27500",
+    "catPrice": "146.00"
+  },
+  {
+    "id": "cefe9a28-2060-4016-b211-5ffbdb1c8e10",
+    "catTitle": "Snowshoe",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=49787",
+    "catPrice": "195.00"
+  },
+  {
+    "id": "b036eb84-f26d-4920-9721-6746e8b40451",
+    "catTitle": "Maine Coon",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=16458",
+    "catPrice": "167.00"
+  },
+  {
+    "id": "bd0fda6b-1b01-44a4-b6a2-054f407ffe90",
+    "catTitle": "Balinese",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=97488",
+    "catPrice": "198.00"
+  },
+  {
+    "id": "e98f57be-f786-4cc4-b220-2b84a9239d7f",
+    "catTitle": "Chartreux",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=48839",
+    "catPrice": "162.00"
+  },
+  {
+    "id": "30a8d82b-9bec-493c-bb1e-de79152cd66d",
+    "catTitle": "Himalayan",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=69467",
+    "catPrice": "137.00"
+  },
+  {
+    "id": "80fb7b73-3ca8-4c14-97a6-0c1c03ec7c5d",
+    "catTitle": "American Curl",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=42903",
+    "catPrice": "117.00"
+  },
+  {
+    "id": "c309d57e-8acc-4f07-bb72-5192b6c67686",
+    "catTitle": "Oriental",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=97957",
+    "catPrice": "157.00"
+  },
+  {
+    "id": "42e80996-8660-4958-a6de-2bbe48cad9f2",
+    "catTitle": "Exotic Shorthair",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=22727",
+    "catPrice": "147.00"
+  },
+  {
+    "id": "70ca5cb2-0fbc-4954-9864-c47eb12e124f",
+    "catTitle": "Devon Rex",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=26385",
+    "catPrice": "189.00"
+  },
+  {
+    "id": "b27dd5d7-da8d-462a-a233-b79c40677c72",
+    "catTitle": "Ojos Azules",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=43686",
+    "catPrice": "132.00"
+  },
+  {
+    "id": "e6b48337-9773-4958-ac37-800b2e306a81",
+    "catTitle": "Peterbald",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=98485",
+    "catPrice": "141.00"
+  },
+  {
+    "id": "5f259502-8ba6-45f1-b862-387376818630",
+    "catTitle": "Thai",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=47061",
+    "catPrice": "154.00"
+  },
+  {
+    "id": "732986f5-9a94-497d-b992-9bb2ea7f7f31",
+    "catTitle": "Sphynx",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=11338",
+    "catPrice": "175.00"
+  },
+  {
+    "id": "699af7ee-d0d9-4087-b2c8-74a6e907f4cd",
+    "catTitle": "Minskin",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=55724",
+    "catPrice": "159.00"
+  },
+  {
+    "id": "9fc71111-9477-41e8-9af4-a93d55739c9a",
+    "catTitle": "Kurilian Bobtail",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=34710",
+    "catPrice": "114.00"
+  },
+  {
+    "id": "8175f08e-ba22-4d8f-a65a-1ba8579c5a97",
+    "catTitle": "Turkish Angora",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=14979",
+    "catPrice": "134.00"
+  },
+  {
+    "id": "c123300b-e5ec-4a95-a80f-2d0e1f7bed4c",
+    "catTitle": "American Curl",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=39946",
+    "catPrice": "125.00"
+  },
+  {
+    "id": "c67930aa-882f-4b56-bbc9-8cc27e4901b9",
+    "catTitle": "Birman",
+    "catImage": "https://loremflickr.com/200/200/cats?lock=90282",
+    "catPrice": "149.00"
+  }
+]
